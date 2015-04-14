@@ -1,0 +1,23 @@
+"font": {
+	fontFamily: 'Gotham Rounded'
+}
+
+".container": {
+	layout: 'vertical',
+	height: '100%'
+}
+
+".imgKoster": {
+	top: '20dp',
+	center: '50%',
+	height: '90dp',
+	width: Titanium.UI.SIZE
+}
+
+".headView": {
+	layout: 'vertical',
+	backgroundColor: 'transparent',
+	height: '93%'
+}
+
+

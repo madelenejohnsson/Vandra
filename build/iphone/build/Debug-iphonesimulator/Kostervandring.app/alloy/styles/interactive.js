@@ -1,0 +1,1 @@
+/Users/Madelenejohnsson/Documents/Titanium_Studio_Workspace/Kostervandring/Resources/iphone/alloy/styles/interactive.js

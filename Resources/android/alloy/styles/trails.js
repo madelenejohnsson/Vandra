@@ -1,0 +1,1 @@
+module.exports = [{"isApi":true,"priority":1000.0001,"key":"font","style":{fontFamily:"Gotham Rounded",}},{"isApi":true,"priority":1000.0081,"key":"font","style":{fontFamily:"Gotham Rounded",}},{"isApi":true,"priority":1000.0082,"key":"Window","style":{backgroundColor:"white",}},{"isClass":true,"priority":10000.0083,"key":"container","style":{layout:"vertical",top:0,}}];
